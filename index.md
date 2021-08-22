@@ -26,3 +26,8 @@ The A255 is a 5-axis articulated industrial robot arm created by  CRS Robotics.
 
 <img src="Pics/image001.png" alt="drawing" width="50%"/>
 
+
+This is mine in my home office. The Post It note on the side is there for checking the encoder position. Low tech, but good enough for quick testing. It shows me the encoder positions 2000, 4000, 7000 and 10.000 for this axis. 
+
+<img src="Pics/image003.png" alt="drawing" width="50%"/>
+
