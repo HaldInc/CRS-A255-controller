@@ -2,7 +2,7 @@
 
 ## This is my Covid-19 lock-down project:  Building a motor controller for a 5-axis industrial robot.
 
-Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wanted more flexibility in the controller and it’s a good challenge to design everything from scratch.
+Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wanted more flexibility in the controller and it’s a good challenge to design everything from scratch.  It's Christmas 2020 and we cannot visit the family or go anywhere due to Covid, so time to spend the holidays on something interesting. 
 
 ## Project tasks:
 * Design the hardware for a multi-axis motor controller. Done.  [link](#head_Hardware) 
@@ -55,7 +55,16 @@ Why AVR?  Lots of good reasons:
 * As the AVR is not fast enough to handle 5-axis with fast encoder feedback simultaneously, I want to create the hardware as a multi-core distributed system where one AVR only handles two axis.
   
   
- So, this means that the system architecture will be something like this:
+ So, this means that the system architecture will be something like this:  
 
   <img src="Pics/Hardware architecture1.png" alt="drawing" width="50%"/>
+  
+  Alle 3 blocks will use identical PCBs with each their own microcontroller (ATmega328PB) and dual DC motor driver. The Master will keep the communication with the PC via USB and command the two slaves using a bidirectional communication over I2C.   
+  
+  
+  <img src="Pics/PCB%20block%20diagram.PNG" alt="drawing" width="100%"/>  
+  
+  
+Each PCB will implement the following functions. Only the Master needs the components mounted for the USB communication, but to save cost and not having to deal with two boards, the boards we be the same and I will just skip mounting all components on the Slaves. 
+
   
