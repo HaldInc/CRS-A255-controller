@@ -11,7 +11,6 @@ Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wante
 * Write the firmware.  In progress.
 * Software a PC-based control software with UI.  Only for debugging right now. 
 
-
 Go to [The build log](#head_BuildLog) for details and the currect status.
 
 ------------------------
@@ -70,4 +69,11 @@ Why AVR?  Lots of good reasons:
 Each PCB will implement the following functions. Only the Master needs the components mounted for the USB communication, but to save cost and not having to deal with two boards, the boards we be the same and I will just skip mounting all components on the Slaves. 
 
 ## <a name="head_BuildLog"> The build log:
+  
+### December 25th 2020:  
+  
+  Decided on the hardware components needed and create a list with notes.  
+  
+  <img src="Pics/ComponentsNeeded_25-12-2020.PNG" alt="drawing" width="100%"/>  
+  
   
