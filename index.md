@@ -84,4 +84,12 @@ Each PCB will implement the following functions. Only the Master needs the compo
   Added I/O for SPI as I think this motor controller could become handy for other uses and hey, I love to have the option for wireless data. Therefore I added the SPI and control lines for a nRF24 module.
   
   
+  ### December 29th 2020:  
+The schematic is coming along well and I reuse parts from one of my older projects to speed up the process.
+ 
+  <img src="Pics/SchmaticVer1_thumb.PNG" alt="drawing" width="100%"/>  
+  
+  You and see the schematic here: <a href="https://github.com/HaldInc/CRS-A255-controller/blob/main/A255%20controller%20schematic_ver1.pdf" target="_blank">PDF.</a>
+  
+  
   
