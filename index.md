@@ -12,6 +12,8 @@ Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wante
 * Software a PC-based control software with UI.  Only for debugging right now. 
 
 
+Go to [The build log](#head_BuildLog) for details and the currect status.
+
 ------------------------
 
 The A255 is a 5-axis articulated industrial robot arm created by  CRS Robotics. 
@@ -67,4 +69,5 @@ Why AVR?  Lots of good reasons:
   
 Each PCB will implement the following functions. Only the Master needs the components mounted for the USB communication, but to save cost and not having to deal with two boards, the boards we be the same and I will just skip mounting all components on the Slaves. 
 
+## <a name="head_BuildLog"> The build log:
   
