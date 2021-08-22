@@ -6,20 +6,22 @@ Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wante
 
 The A255 is a 5-axis articulated industrial robot arm created by  CRS Robotics. 
 
-### Technical Specifications of arm:  
-Number of axes 5  
-Weight 17 kg [37 lb]  
-Mounting Upright or inverted  
-Nominal payload 1 kg [2.2 lb]  
-Reach 559 mm [22 in.]  
-(joint 1 axis to tool flange)  
-Repeatability ± 0.05 mm [0.002 in.]  
-Drive system Electromechanical motors  
-Incremental encoders in each joint  
-Transmission Harmonic drives  
-Brakes Brakes on joints 2, 3, 4, and 5  
-End-of-arm connections Servo gripper connector on wrist  
-Air connector on wrist  
+
+| Technical Specifications of arm:|
+|----------------------------------|
+|Number of axes 5  
+|              Weight 17 kg [37 lb]  |
+|    Mounting Upright or inverted  |
+|  Nominal payload 1 kg [2.2 lb]  |
+|Reach 559 mm [22 in.]  |
+|(joint 1 axis to tool flange)  |
+|Repeatability ± 0.05 mm [0.002 in.]  
+|Drive system Electromechanical motors  
+|Incremental encoders in each joint  
+|Transmission Harmonic drives  
+|Brakes Brakes on joints 2, 3, 4, and 5  
+|End-of-arm connections Servo gripper connector on wrist  
+|Air connector on wrist  
 
 
 <img src="Pics/image001.png" alt="drawing" width="50%"/>
