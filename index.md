@@ -4,6 +4,16 @@
 
 Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wanted more flexibility in the controller and it’s a good challenge to design everything from scratch.
 
+## Project task:
+* Design the hardware for a multi-axis motor controller. Done.  [link](#head_Hardware) 
+* Produce the PCB. Done. 
+* Design a communication protocol and command set.
+* Write the firmware.  In progress.
+* Software a PC-based control software with UI.  Only for debugging right now. 
+
+
+------------------------
+
 The A255 is a 5-axis articulated industrial robot arm created by  CRS Robotics. 
 
 
@@ -30,4 +40,9 @@ The A255 is a 5-axis articulated industrial robot arm created by  CRS Robotics.
 This is mine in my home office. The Post It note on the side is there for checking the encoder position. Low tech, but good enough for quick testing. It shows me the encoder positions 2000, 4000, 7000 and 10.000 for this axis. 
 
 <img src="Pics/image003.png" alt="drawing" width="50%"/>
+
+
+------------------------------------------------
+## <a name="head_Hardware"> Hardware
+
 
