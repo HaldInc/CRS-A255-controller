@@ -76,4 +76,12 @@ Each PCB will implement the following functions. Only the Master needs the compo
   
   <img src="Pics/ComponentsNeeded_25-12-2020.PNG" alt="drawing" width="100%"/>  
   
+### December 26th 2020:  
+  Assigning MCU pins.  The Arduino Nano is using the ATmega328P, but I will use the ATmega328PB as this is a newer chip with more I/O and functionality. It also means that it cannot use the Arduino bootloader, but as I will write all the code optimized for speed I guess I will not need the bootloader anyway.  We'll see when I get to the firmware at some point.
+  
+  <img src="Pics/Pin%20assignment_25-12-2020.PNG" alt="drawing" width="100%"/>  
+  
+  Added I/O for SPI as I think this motor controller could become handy for other uses and hey, I love to have the option for wireless data. Therefore I added the SPI and control lines for a nRF24 module.
+  
+  
   
