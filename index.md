@@ -5,11 +5,11 @@
 Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wanted more flexibility in the controller and it’s a good challenge to design everything from scratch.  It's Christmas 2020 and we cannot visit the family or go anywhere due to Covid, so time to spend the holidays on something interesting. 
 
 ## Project tasks:
-* Design the hardware for a multi-axis motor controller. Done.  [link](#head_Hardware) 
-* Design and produce the PCB. Done. 
-* Design a communication protocol and command set.
-* Write the firmware.  In progress.
-* Software a PC-based control software with UI.  Only for debugging right now. 
+- [x] Hardware design for a multi-axis motor controller.  [link](#head_Hardware) 
+- [x] Design and produce the PCB.
+- [ ] Design a communication protocol and command set. In progress.  
+- [ ] Write the firmware.  In progress.
+- [ ] Software a PC-based control software with UI.  Only for debugging right now. 
 
 Go to [The build log](#head_BuildLog) for details and the currect status.
 
