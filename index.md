@@ -1,5 +1,6 @@
+<a name="top"></a> 
 # CRS A255 controller
-
+   
 ## This is my Covid-19 lock-down project:  Building a motor controller for a 5-axis industrial robot.
 
 Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wanted more flexibility in the controller and it’s a good challenge to design everything from scratch.  It's Christmas 2020 and we cannot visit the family or go anywhere due to Covid, so time to spend the holidays on something interesting. 
@@ -67,7 +68,10 @@ Why AVR?  Lots of good reasons:
   
   
 Each PCB will implement the following functions. Only the Master needs the components mounted for the USB communication, but to save cost and not having to deal with two boards, the boards we be the same and I will just skip mounting all components on the Slaves. 
-
+  
+<a href="#top">Back to top of page</a>  
+  
+  
 ## <a name="head_BuildLog"> The build log:
   
 ### December 25th 2020:  
@@ -90,6 +94,9 @@ The schematic is coming along well and I reuse parts from one of my older projec
   <img src="Pics/SchmaticVer1_thumb.PNG" alt="drawing" width="100%"/>  
   
   You and see the schematic here: <a href="https://github.com/HaldInc/CRS-A255-controller/blob/main/A255%20controller%20schematic_ver1.pdf" target="_blank">PDF.</a>
+  
+  
+ <a href="#top">Back to top of page</a>
   
   
   
