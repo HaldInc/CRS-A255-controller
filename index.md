@@ -89,7 +89,7 @@ Each PCB will implement the following functions. Only the Master needs the compo
   
   
 ### December 29th 2020:  
-The schematic is coming along well and I reuse parts from one of my older projects to speed up the process.
+The schematic is coming along well and I reuse the encoder part from one of my older projects to speed up the process.
  
   <img src="Pics/SchmaticVer1_thumb.PNG" alt="drawing" width="100%"/>  
   
