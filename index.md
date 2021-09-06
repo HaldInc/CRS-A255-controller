@@ -7,7 +7,7 @@ Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wante
 
 ## Project tasks:
 - [x] Hardware design for a multi-axis motor controller.  [link](#head_Hardware) 
-- [x] Design and produce the PCB.
+- [x] Design and produce the PCB. [link](#PCB1) 
 - [ ] Design a communication protocol and command set. In progress.  
 - [ ] Write the firmware.  In progress.
 - [ ] Software a PC-based control software with UI.  Only for debugging right now. 
@@ -98,7 +98,7 @@ The schematic is coming along well and I reuse the encoder part from one of my o
   
  <a href="#top">Back to top of page</a>
   
- 
+<a name="PCB1"></a>  
  # PCB
 The PCB design is done! I actually was planning to make the PCB myself using old-school photo techniques and etching it, but all my equipment for this is at my sisters’ house and due to the Covid pandemic I’m not going there anytime soon. Instead I’ll use JLCPCB for fabrication. 
   
