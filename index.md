@@ -112,5 +112,10 @@ The PCB design is done! I actually was planning to make the PCB myself using old
 ### February 2021:
 The PCB has arrived from JLCPCB and the quality is excellent. Having a soldering mask is really great compared to the typical DIY PCBs.  
 
-   
+<table>
+   <tr>
+      <td> <img src="Pics/PCB1_6.png" alt="drawing" width="75%"/>     </td>
+      <td> <img src="Pics/PCB1_5.png" alt="drawing" width="75%"/>     </td>
+   </tr>
+</table>
    
