@@ -1,16 +1,16 @@
 <a name="top"></a> 
-# CRS A255 controller
+# CRS A255 controller - Ongoing...
    
 ## This is my Covid-19 lock-down project:  Building a motor controller for a 5-axis industrial robot.
 
-Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wanted more flexibility in the controller and it’s a good challenge to design everything from scratch.  It's Christmas 2020 and we cannot visit the family or go anywhere due to Covid, so time to spend the holidays on something interesting. 
+Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wanted more flexibility in the controller and it’s a good challenge to design everything from scratch.  It's Christmas 2020 and we cannot visit the family or go anywhere due to Covid, so time to spend the holidays on something interesting. As this is a personal project done in my spare time, so the timeline for this is everything from a few months to a few years. …a few years is properly the most realistic. 
 
 ## Project tasks:
 - [x] Hardware design for a multi-axis motor controller.  [link](#head_Hardware) 
 - [x] Design and produce the PCB. [link](#PCB1) 
 - [ ] Design a communication protocol and command set. In progress.  
 - [ ] Write the firmware.  In progress.
-- [ ] Software a PC-based control software with UI.  Only for debugging right now. 
+- [ ] Software: A PC-based control software with UI.  Only for debugging right now. 
 
 Go to [The build log](#head_BuildLog) for details and the currect status.
 
