@@ -114,8 +114,8 @@ The PCB has arrived from JLCPCB and the quality is excellent. Having a soldering
 
 <table>
    <tr>
-      <td> <img src="Pics/PCB1_6.png" alt="drawing" width="75%"/>     </td>
-      <td> <img src="Pics/PCB1_5.png" alt="drawing" width="75%"/>     </td>
+      <td> <img src="Pics/PCB1_6.png" alt="1" width="100%"/>     </td>
+      <td> <img src="Pics/PCB1_5.png" alt="2" width="100%"/>     </td>
    </tr>
 </table>
    
