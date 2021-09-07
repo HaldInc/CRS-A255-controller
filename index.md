@@ -105,5 +105,10 @@ The PCB design is done! I actually was planning to make the PCB myself using old
   
 <img src="Pics/PCB_1.png" alt="drawing" width="100%"/>  
 
-All PCB artwork is designed in KiCAD. 
+**All my PCB artwork is designed in KiCAD. **
   
+### February 2021:
+The PCB has arrived from JLCPCB and the quality is excellent. Having a soldering mask is really great compared to the typical DIY PCBs.  
+
+   
+   
