@@ -115,12 +115,12 @@ The PCB design is done! I actually was planning to make the PCB myself using old
 The PCB has arrived from JLCPCB and the quality is excellent. Having a soldering mask is really great compared to the typical DIY PCBs.  
 
    
-   The raw board: <img src="Pics/PCB1_6.png" alt="1" width="100%"/>
+   The raw board: <img src="Pics/PCB1_6.png" alt="1" width="100%">
 
    
 Before mounting all the components, I just added enough to boot up the microcontroller and the USB interface. Blinking the status LED of a new PCB is always exciting and results in another milestone completed. Now I “just” need to get the rest of the stuff working :)
 
-   <img src="Pics/PCB1_5.png" alt="2" width="100%"/>
+   <img src="Pics/PCB1_5.png" alt="2" width="100%">
    
 
    
