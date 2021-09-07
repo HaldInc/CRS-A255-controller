@@ -90,7 +90,10 @@ Each PCB will implement the following functions. Only the Master needs the compo
   
 ### December 29th 2020:  
 The schematic is coming along well and I reuse the encoder part from one of my older projects to speed up the process.
- 
+
+As part of the schematic design, I did a few breadboard tests of the encoder logic using some old 74HC74 and a motor with build in encoder. This is far from the motor and encoder type used in the robot arm, but for this purpose it is ok and easy to setup. 
+<img src="Pics/EncoderLogicTest.PNG" alt="drawing" width="50%"/>     
+   
   <img src="Pics/SchmaticVer1_thumb.PNG" alt="drawing" width="100%"/>  
   
   You and see the schematic here: <a href="https://github.com/HaldInc/CRS-A255-controller/blob/main/A255%20controller%20schematic_ver1.pdf" target="_blank">PDF.</a>
