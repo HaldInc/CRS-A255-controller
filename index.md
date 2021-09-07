@@ -107,8 +107,9 @@ As part of the schematic design, I did a few breadboard tests of the encoder log
 # PCB
 The PCB design is done! I actually was planning to make the PCB myself using old-school photo techniques and etching it, but all my equipment for this is at my sisters’ house and due to the Covid pandemic I’m not going there anytime soon. Instead I’ll use JLCPCB for fabrication. 
   
-<img src="Pics/PCB_1.png" alt="drawing" width="100%"/>  
-*All my PCB artwork is designed in KiCAD. *
+<img src="Pics/PCB_1.png" alt="drawing" width="100%">  
+   
+*All my PCB artwork is designed in KiCAD.*
   
 ### February 2021:
 The PCB has arrived from JLCPCB and the quality is excellent. Having a soldering mask is really great compared to the typical DIY PCBs.  
