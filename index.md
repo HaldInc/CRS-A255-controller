@@ -104,7 +104,6 @@ The schematic is coming along well and I reuse the encoder part from one of my o
 The PCB design is done! I actually was planning to make the PCB myself using old-school photo techniques and etching it, but all my equipment for this is at my sisters’ house and due to the Covid pandemic I’m not going there anytime soon. Instead I’ll use JLCPCB for fabrication. 
   
 <img src="Pics/PCB_1.png" alt="drawing" width="100%"/>  
-
 *All my PCB artwork is designed in KiCAD. *
   
 ### February 2021:
