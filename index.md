@@ -8,9 +8,9 @@ Why?  Well, why not?  I had a CRS A255 robot arm for some years and always wante
 ## Project tasks:
 - [x] Hardware design for a multi-axis motor controller.  [link](#head_Hardware) 
 - [x] Design and produce the PCB. [link](#PCB1) 
-- [ ] Design a communication protocol and command set. In progress.  
-- [ ] Write the firmware.  In progress.
-- [ ] Software: A PC-based control software with UI.  Only for debugging right now. 
+- [x] Design a communication protocol and command set.
+- [x] Write the firmware.  In progress.
+- [x] Software: A PC-based control software with UI.  Only for debugging right now. 
 
 Go to [The build log](#head_BuildLog) for details and the currect status.
 
