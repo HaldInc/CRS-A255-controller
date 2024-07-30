@@ -1,4 +1,6 @@
 <a name="top"></a> 
+[Back to main](https://haldinc.github.io/)
+
 # CRS A255 controller - Ongoing...
    
 ## This is my Covid-19 lock-down project:  Building a motor controller for a 5-axis industrial robot.
@@ -129,3 +131,4 @@ Before mounting all the components, I just added enough to boot up the microcont
    
    <a href="#top">Back to top of page</a>
    
+[Back to main](https://haldinc.github.io/)
